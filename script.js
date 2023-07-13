@@ -45,7 +45,7 @@ let trees=[];
 let players=[];
 let dead=[];
 let gen=1;
-let population=5;
+let population=10;
 
 function setup() {
 	let canvas = createCanvas(600,400);
